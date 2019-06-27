@@ -1,0 +1,16 @@
+{
+"companyName": "ksm",
+"productName": "match",
+"productVersion": "1.0",
+"dataUrl": "887379209391aac4d063387171006e56.unityweb",
+"wasmCodeUrl": "02ce3520ebb859327748db8a6630b37e.unityweb",
+"wasmFrameworkUrl": "a9e74b75b69c58126eda4346257c2c91.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
